@@ -1,6 +1,6 @@
 # Diabetes-Prediction-ML
 
-This repository contains the implementation of a complete machine learning pipeline for predicting [your dataset's problem] using FastAPI and Gradio for deployment.
+This repository contains the implementation of a complete machine learning pipeline for predicting Diabetes using FastAPI and Gradio for deployment.
 
 ## Folder Structure
 - **Part1_to_Part3_Data_Cleaning_Model_Building_Model_IO**: Contains the script `data_pipeline.py` that handles data cleaning, model building, and saving/loading of the model.
@@ -45,3 +45,7 @@ This repository contains the implementation of a complete machine learning pipel
 - FastAPI
 - uvicorn
 - gradio
+
+## Conclusion
+The diabetes prediction model effectively identifies diabetes risk using key features like glucose levels, BMI, and insulin. It demonstrates strong accuracy and precision, making it a valuable tool for early diagnosis among Pima Indian women. Future improvements could include integrating additional data or advanced techniques to enhance predictive performance.
+
